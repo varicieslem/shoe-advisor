@@ -109,6 +109,6 @@ export GEMINI_API_KEY="your_api_key_here"
 
 `main_colab.ipynb` dosyasını Google Colab veya yerel Jupyter Lab ortamında sırayla çalıştırarak Gradio arayüzünü başlatabilirsiniz.
 
-## 🎓 Teşekkür
+# 🎓 Teşekkür
 
 Bu proje, 1 haftalık yoğun Doğal Dil İşleme (NLP) eğitim sürecinin bitirme çalışması olarak geliştirilmiştir. Doğal dilin bilgisayarlar tarafından anlamlandırılmasındaki zorlukları aşma ve bir yazılım ürününün kullanıcı ihtiyaçlarına göre sürekli evrilmesi bakış açısını kazandıran değerli hocama teşekkür ederim.
