@@ -65,7 +65,6 @@ Gradio ile geliştirilen çift panelli arayüz:
 
 * **Sağ Panel:** Seçilen yol (`intent`), çıkarılan slotlar, uygulanan metadata filtreleri ve getirilen ürünlerin benzerlik puanları.
 
-*(Gradio arayüzünden aldığınız ekran görüntüsünü `assets/demo_preview.png` yoluna ekleyebilirsiniz)*
 
 ## 📂 Proje Yapısı
 
